@@ -1,6 +1,6 @@
 # Financial Analysis Project
 
-This project utilizes Power BI to analyze YTD financial performance, delivering actionable insights into sales trends, profit margins, discount impacts, and segment profitability for data-driven decision-making.
+This project utilizes Power BI to analyze financial performance and compare previous year results, delivering actionable insights into sales trends, profit margins, discount impacts, and segment profitability for data-driven decision-making.
 
 ![image](https://github.com/user-attachments/assets/2f9878c3-42a8-4747-8c8f-a9f8c019047e)
 
